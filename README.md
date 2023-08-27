@@ -1,6 +1,4 @@
 [![MasterHead](https://gifdb.com/images/high/animated-chock-coding-c78f6elj32sfoi8q.gif)](https://ravenprevendido.io)
-<h1 align="center">Hi 👋, I'm Raven Prevendido</h1>
-<h3 align="center">I'm a passionate frontend developer</h3>
 
 # 💫 About Me:
 🌱 I’m currently learning Web development<br><br>💬 feel free to ask me about web development<br><br>📫 How to reach me prevendidoraven5@gmail.com
